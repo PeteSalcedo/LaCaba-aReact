@@ -3,3 +3,4 @@
 # Webstorm.idea/
 
 # Projectdist/
+**/node_modules
