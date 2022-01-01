@@ -1,0 +1,23 @@
+{
+  "name": "lacabanareact",
+  "version": "1.0.0",
+  "description": "A full stack web app to order food from lacabana",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeteSalcedo/LaCaba-aReact.git"
+  },
+  "keywords": [
+    "react",
+    "node"
+  ],
+  "author": "Pete Salcedo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PeteSalcedo/LaCaba-aReact/issues"
+  },
+  "homepage": "https://github.com/PeteSalcedo/LaCaba-aReact#readme"
+}
