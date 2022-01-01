@@ -1,6 +1,3 @@
-# Nodenode_modules/
-
-# Webstorm.idea/
-
-# Projectdist/
-**/node_modules
+node_modules/
+dist/
+.idea/
